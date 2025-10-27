@@ -1,0 +1,6 @@
+Order_ID,Date,Product,Category,Quantity,Price,Region,Salesperson,Payment_Mode,Total_Sales,Month
+101,2024-01-05,Laptop,Electronics,2.0,55000.0,North,Ayesha,Credit Card,110000.0,January
+102,2024-01-08,Phone,Electronics,3.0,35000.0,South,Bilal,Cash,105000.0,January
+103,2024-01-10,Shoes,Fashion,,,East,Ali,Credit Card,,January
+104,2024-01-15,Watch,Accessories,2.0,4000.0,West,Sana,UPI,8000.0,January
+105,2024-02-02,Laptop,Electronics,1.0,60000.0,North,Ayesha,Credit Card,60000.0,February
